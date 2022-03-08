@@ -16,3 +16,16 @@ Thus far, the repository contains:
 - CART Decision Tree (in-progress)
 
 More will be added as I have time to grow this repo. 
+
+# The Datasets
+The datasets treated in this section are:
+- MNIST Dataset
+- Iris Dataset
+- Abalone Dataset
+- Forest Fires Dataset
+- Congressional House Votes Dataset
+- Car Maintenance Dataset
+- Computer Hardware Dataset
+- Breast Cancer Wisconsin 84 Dataset
+
+Some of these will be expanded upon in the notebook entries for the decision tree and KNN implementations to come. 
